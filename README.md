@@ -32,3 +32,8 @@ I recently graduated UNCW with a Bachelors in the Arts. While I was in school I 
 - Unity
 - WebGL
 - OpenGL
+
+## Links to projects created during Triple Ten
+
+[Coffee shop](https://torimartins27.github.io/se_project_coffeeshop/)
+[Around the US](https://torimartins27.github.io/se_project_aroundtheus/)
