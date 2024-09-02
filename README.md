@@ -1,17 +1,34 @@
 ## Hi my name is Victoria Martins and I am currently a software engineering student at Triple Ten 
 
-<!--
-**torimartins27/torimartins27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently graduated UNCW with a Bachelors in the Arts. While I was in school I studied Digital Arts and Computer Science with a concentration in Web Development and Mobile Devices. I am currently in the Triple Ten online Software Engineering program, as well as in the process of revamping my website and making the virtual tour of the UNCW library more responsive to different kinds of mobile devices. As of right now it is only responsive to larger desktop screens. I used Unity, C# and WebGL to build this application and am looking for someone to collaborate with if anyone is interested in helping me making this build more responsive! 👯‍♀️
 
-Here are some ideas to get you started:
+[You can view my Wordpress website with my portfolio that I worked on in school here](www.torimartins.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I recently graduated UNCW with a Bachelors in the Arts. While I was in school I studied Digital Arts and Computer Science with a concentration in Web Development and Mobile Devices.
+## Technical Skills
+
+- HTML/CSS
+- Javascript
+- JQuery
+- Java FX
+- Python
+- Java
+- C++
+- C#
+
+## Sofwares/APIS
+
+- Microsoft Suite
+- Adobe Suite
+- Maya
+- Touch Designer
+- Scenebuilder
+- Wordpress
+- Figma
+- Git
+- Github
+- VS Code
+- Intellij
+- Pycharm
+- Unity
+- WebGL
+- OpenGL
