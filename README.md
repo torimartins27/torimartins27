@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is Victoria Martins and I am currently a software engineering student at Triple Ten 
 
 <!--
 **torimartins27/torimartins27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I recently graduated UNCW with a Bachelors in the Arts. While I was in school I studied Digital Arts and Computer Science with a concentration in Web Development and Mobile Devices.
